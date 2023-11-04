@@ -1,0 +1,13 @@
+h1{color: yellow;background-color: black;text-align: center;
+font-size: 38px;}
+p{
+    color: chartreuse;
+background-color: yellowgreen;font-size: 39px;
+font-weight: bold;}
+a{
+    color:white;font-size: 23px;
+    font-weight: bold;
+    font-style: italic;
+    background-color: navy;
+    
+}
